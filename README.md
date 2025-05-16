@@ -1,10 +1,15 @@
-# 🎵 Vibra — Mood-Based Music Launcher
+# 🎵 Vibra — Mood Based Music Launcher
 
-A beautifully simple iOS app that lets you launch your favorite **Music playlists** based on your mood — using custom **emojis or images** 💫  
+A beautifully simple iOS app that lets you launch your favorite **Music playlists** based on your mood — using custom **emojis or images** 💫 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c7857f8-5098-4778-bfec-6c3d14c99aaf" alt="Vibra Preview" width="300"/>
+</p> 
 
 ---
 
+
 ## 💡 What is Vibra?
+
 
 **Vibra** is your personal mood-based playlist launcher 🎶  
 Whether you're feeling sad 🥲, hyped 🤩, or dead inside 💀 — just tap your vibe tile and jump straight into the feels.
@@ -12,6 +17,7 @@ Perfect for:
 - Music lovers who curate *mood playlists*
 - Fast switching between daily vibes
 - Aesthetic launcher addicts 👀
+
 
 ---
 
@@ -46,7 +52,6 @@ Tap any tile to instantly launch the linked playlist.
 - `PhotosPicker` 
 - `@AppStorage`
 - `Codable` structs for data model
-- Fully compatible with iOS 17+
 
 ---
 
@@ -59,14 +64,14 @@ You can sideload **Vibra.ipa** using:
 - 🟠 ESign or TrollStore *(if supported on your device)*  
 
 > After install, just open Vibra and start adding moods 💫  
-> No login needed. 100% local + offline.
-
+> No login needed. 100% local.
+> Compatible with iOS 17+
 ---
 
 ## 🔒 Privacy
 
 This app doesn’t track, log, or store anything online.  
-Everything is stored **locally** on your iPhone only.
+Everything is stored **locally** on your iPhone.
 
 ---
 
@@ -93,6 +98,7 @@ Everything is stored **locally** on your iPhone only.
 
 Vibra is a personal passion project built for fun + utility.  
 It does not collect user data
+
 Use responsibly 💖
 
 ---
